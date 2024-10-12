@@ -1,0 +1,7 @@
+<article>
+  <header>
+    <img [src]="image().source" [alt]="image().description" />
+    <h2>{{ title() }}</h2>
+  </header>
+  <ng-content #content></ng-content>
+</article>
