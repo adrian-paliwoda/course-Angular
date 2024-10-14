@@ -1,5 +1,5 @@
 # Genesis
-Code is based on "Angular - The Complete Guide" couse
+Code is based on "Angular - The Complete Guide" course
 
 [About course](https://www.udemy.com/course/the-complete-guide-to-angular-2/?couponCode=KEEPLEARNING)
 
