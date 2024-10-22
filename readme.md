@@ -15,4 +15,4 @@ Code is based on "Angular - The Complete Guide" course
 ## Easy Task
 The application allows the user to add tasks, delete them or mark them as completed.
 
-![Easy Task](./screenshots/todo_swagger.png)
+![Easy Task](./screenshots/EasyTask.png)
