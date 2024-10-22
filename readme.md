@@ -9,3 +9,10 @@ Code is based on "Angular - The Complete Guide" course
 - JavaScript
 - Angular
 - Angular Singnals
+
+# Example
+
+## Easy Task
+The application allows the user to add tasks, delete them or mark them as completed.
+
+![Easy Task](./screenshots/todo_swagger.png)

@@ -202,3 +202,4 @@ aio/node_modules
 aio/out-tsc
 
 **/public
+**/.angular
